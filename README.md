@@ -1,2 +1,2 @@
 # roblox-drop-
-roblox drop discord:idevvv
+locked roblox drop discord:idevvv
